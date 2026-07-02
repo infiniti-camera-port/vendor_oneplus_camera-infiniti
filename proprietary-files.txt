@@ -1,0 +1,1 @@
+my_product/etc/permissions/oplus.feature.android.xml:product/etc/permissions/oplus.feature.android.xml
