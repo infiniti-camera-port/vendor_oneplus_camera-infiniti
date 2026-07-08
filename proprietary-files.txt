@@ -1,0 +1,4 @@
+# Infiniti-specific camera payload manifest.
+#
+# Empty by design for staging/crdroid/v3: the Infiniti blob swap is carried by
+# vendor/oneplus/camera-sm8850-common on staging/crdroid/v3-infiniti.
