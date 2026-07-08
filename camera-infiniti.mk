@@ -4,3 +4,5 @@
 # scaffold inherits the SM8850 common camera surface.
 
 $(call inherit-product, vendor/oneplus/camera-sm8850-common/camera-sm8850-common.mk)
+
+$(call inherit-product, proprietary/vendor/oneplus/camera-infiniti/camera-infiniti-vendor.mk)
