@@ -11,4 +11,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/camera-infiniti/configs/init/init.camera_process.rc:$(TARGET_COPY_OUT_ODM)/etc/init/init.camera_process.rc
 
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.build.version.ota=CPH2745_11.A.42_0420_202606022356
+    ro.build.version.ota=CPH2745_11.A.42_0420_202606022356 \
+    ro.oplus.pipeline.region=IN \
+    ro.oplus.product.series=flagship_series
